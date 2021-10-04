@@ -1,0 +1,9 @@
+# ignore all
+/*
+
+# ignore all except the following
+!.gitignore
+!src/
+
+# dont include pycache files
+*.pyc
