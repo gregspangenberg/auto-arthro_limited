@@ -13,8 +13,7 @@ will create a folder of the inputted name with 4 sub-folders named:
 
 Place your cortical and trabecular bone files as .sldprt in Import and your implants as .step in Import.
 Then run CONTROLLER.py and indicate you are on step 1 when queried. Apply material properties to the
-trabecular bones outputted to MATS and add the suffix 'MATS' to the end of each file with material 
-properties. Run CONTROLLER.py again and indicate you are on step 2. 
+trabecular bones outputted to the MATS folder and add the suffix 'MATS' to the end of each file with material properties. Run CONTROLLER.py again and indicate you are on step 2. 
 
-You now have an implanted bone with material properties that has been meshed and is ready for loads,
+You now have implanted bones with material properties that has been meshed and are ready for loads,
 boundary conditions etc. to be applied!
